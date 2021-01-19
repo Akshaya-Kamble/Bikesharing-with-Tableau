@@ -11,7 +11,7 @@ With the analysis of NYC bike sharing data and visualization we have to convince
 ### B. Below are the results of each visualization created in the Tableau story
 
 #### 1. Checkout times for users:
-![](https://github.com/Akshaya-Kamble/bikesharing/blob/main/Reference%20Images/Checkout%20time%20for%20users.PNG)
+![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Checkout%20time%20for%20users.PNG)
 This graph shows the length of time that bikes are checked out for all riders.The trip duration is shown in hours.
 Looking at the graph we can conclude that the most number of bikes were rented for the five hour trip duration.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Checkouttimeforusers_16105716359700/Checkouttimeforusers)
