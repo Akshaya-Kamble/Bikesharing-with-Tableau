@@ -40,6 +40,10 @@ This graph shows the number of bike trips by gender for each hour for each day o
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday/Usertripsbygenderbyweekday)
 
 #### 6. August peak hours
+![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/August%20peak%20hours.PNG)
+Since summer is a good time to visit Ney York there are probably more number of bike riders exploring the city. The graph shows how many bikes are rented on hour of the day in the month of August.With 5pm having the highest number of riders.
+[link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/AugustPeakhours?publish=yes)
+
 #### 7. Top starting locations
 
 
