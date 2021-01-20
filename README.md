@@ -20,7 +20,7 @@ Looking at the graph we can conclude that most number of bikes were rented for t
 #### 2. Checkout times by gender:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Checkout%20time%20by%20gender.PNG)
 This graph shows the length of time the bikes are checked out for all genders.The trip duration is shown in hours.
-Looking at the graph we can conclude that the most number of bikes were rented by male riders for a selected trip duration than the female riders. We also have a number of riders whose gender is unknown and are marked in red.
+Looking at the graph we can conclude that most number of bikes were rented by male riders for a selected trip duration than the female riders. We also have a number of riders whose gender is unknown and are marked in red.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Checkouttimesbygender/Checkouttimesbygender)
 
 
@@ -36,12 +36,12 @@ In this graph we have the number of bike trips by gender for each hour of each d
 
 #### 5. User trips by gender by weekday:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/user%20trips%20by%20gender%20by%20weekday.PNG)
-This graph shows the number of bike trips by gender for each hour for each day of the week as a heatmap. Since the number of male riders are highest the heat map shows dark colors for this data.
+This graph shows the number of bike trips by gender for each hour for each day of the week as a heatmap. Since the number of male riders are highest the heat map shows dark colors for this data. We can also see that we have more subscibers than customers.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday/Usertripsbygenderbyweekday)
 
 #### 6. August peak hours:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/August%20peak%20hours.PNG)
-Since summer is a good time to visit Ney York there are probably more number of bike riders exploring the city. The graph shows how many bikes are rented on hour of the day in the month of August.With 5pm having the highest number of riders.
+Since summer is a good time to visit New York there are probably more number of bike riders exploring the city. The graph shows how many bikes are rented on hour of the day in the month of August.With 5pm having the highest number of riders.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/AugustPeakhours?publish=yes)
 
 #### 7. Top starting locations:
@@ -52,6 +52,7 @@ This is a scatter plot which displays the starting location for the bike ride. T
 ## Summary
 #### 1. Bike count for trip duration:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Bike%20count%20for%20Trip%20duration.PNG)
+This bar graph shows multiple data and is filtered to show the top five start locations depending on the bikes rented out.The x axis has the time and the y axis has the count of bikes.Each start station is represented by color and the size of the bar represents how many bikes were rented at that location.The overall bar represents the tripduration.We can conclude that more number of bikes are rented for a tripduaration of six and seven hours at all the five top start locations.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Bikecountfortripduration?publish=yes)
 
 #### 2. Bike rental by days:
