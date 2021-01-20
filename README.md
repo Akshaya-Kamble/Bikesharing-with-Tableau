@@ -34,18 +34,20 @@ In this graph using heatmap we can conclude that more bikes are rented on a part
 In this graph we have the number of bike trips by gender for each hour of each day of the week as a heatmap. Since the male riders have rented more bikes the heatmap shows a lot of darker shades.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Tripsbygenderweekdayperhour/Tripsbygenderweekdayperhr)
 
-#### 5. User trips by gender by weekday :
+#### 5. User trips by gender by weekday:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/user%20trips%20by%20gender%20by%20weekday.PNG)
 This graph shows the number of bike trips by gender for each hour for each day of the week as a heatmap. Since the number of male riders are highest the heat map shows dark colors for this data.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday/Usertripsbygenderbyweekday)
 
-#### 6. August peak hours
+#### 6. August peak hours:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/August%20peak%20hours.PNG)
 Since summer is a good time to visit Ney York there are probably more number of bike riders exploring the city. The graph shows how many bikes are rented on hour of the day in the month of August.With 5pm having the highest number of riders.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/AugustPeakhours?publish=yes)
 
-#### 7. Top starting locations
-
+#### 7. Top starting locations:
+![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Top%20starting%20locations.PNG)
+This is a scatter plot which displays the starting location for the bike ride. The location with more bike rides is displayed in darker color and bigger radius.
+[link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/TopStartinglocations?publish=yes)
 
 ## Summary
 #### 1. Bike count for trip duration
