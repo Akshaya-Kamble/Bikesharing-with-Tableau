@@ -57,10 +57,12 @@ This bar graph shows multiple data and is filtered to show the top five start lo
 
 #### 2. Bike rental by days:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Bike%20rental%20by%20days.PNG)
+The pie chart above shows the number of bikes that are rented on different days. The data shows that the highest number of bikes are rented on a thursday followed by friday.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Bikerentalsbydays?publish=yes)
 
 #### 3. Top ten start stations:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Top%20ten%20start%20stations.PNG)
+After filtering the data for the top ten starting locations we can see that the station named "Pershing Square North" has the highest number of bikes rented which counts to 16,564.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Toptenstartstations?publish=yes)
 
 
