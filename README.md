@@ -13,25 +13,25 @@ With the analysis of NYC bike sharing data and visualization we have to convince
 #### 1. Checkout times for users:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Checkout%20time%20for%20users.PNG)
 This graph shows the length of time the bikes are checked out for all riders.The trip duration is shown in hours.
-Looking at the graph we can conclude that the most number of bikes were rented for the five hour trip duration.
+Looking at the graph we can conclude that most number of bikes were rented for the five hour trip duration.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Checkouttimeforusers_16105716359700/Checkouttimeforusers)
 
 
 #### 2. Checkout times by gender:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Checkout%20time%20by%20gender.PNG)
 This graph shows the length of time the bikes are checked out for all genders.The trip duration is shown in hours.
-Looking at the graph we can conclude that the most number of bikes were rented by male riders for a selected trip duration than the female riders.
+Looking at the graph we can conclude that the most number of bikes were rented by male riders for a selected trip duration than the female riders. We also have a number of riders whose gender is unknown and are marked in red.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Checkouttimesbygender/Checkouttimesbygender)
 
 
 #### 3. Trips by weekday per hour:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Trips%20by%20weekday%20per%20hour.PNG)
-In this graph using heatmap we can conclude that more bikes are rented on a particular hour on a weekday. The dark colors are the hours with the highest number of bikes rented and the light colors show the least number of bikes rented.
+In this graph using heatmap we can conclude that more bikes are rented on a particular hour on a weekday. The dark colors are the hours with the highest number of bikes rented and the light colors show the least number of bikes rented. We can also see that most number of the bikes are rented on thursdays during 7am to 8am and 5pm to 7pm.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Tripsbyweekdayperhour/Tripsbyweekdayperhour)
 
 #### 4. Trips by gender (weekday per hour):
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Trips%20by%20gender(weekday%20per%20hour).PNG)
-In this graph we have the number of bike trips by gender for each hour of each day of the week as a heatmap. Since the male riders have rented more bikes the heatmap shows a lot of darker shades.
+In this graph we have the number of bike trips by gender for each hour of each day of the week as a heatmap. Since the male riders have rented more bikes the heatmap shows a lot of darker shades. We can also see a lot of bikes are rented during 7am to 8am and 5pm to 7pm for both genders as these hours have darker colors on the heatmap.
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Tripsbygenderweekdayperhour/Tripsbygenderweekdayperhr)
 
 #### 5. User trips by gender by weekday:
