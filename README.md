@@ -50,6 +50,20 @@ This is a scatter plot which displays the starting location for the bike ride. T
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/TopStartinglocations?publish=yes)
 
 ## Summary
+### A. The following points are the conclusions from all the visualizations created in this project which can be used as references for different locations.
+1. More number of bikes are rented by all genders for a trip duration of 4 hours to 8 hours. This can help set the inventory for the bikes that will be required.
+2. More number of bikes are rented by male riders than female riders. Which is approx to three times more by looking at the vizualization. This information can help if the investors want to order different bikes by gender.
+3. The most number of bikes rented on a weekday are during morning 7am to 9am and evenings 5pm to 7pm, while on weekends there is a fare number of rental throughout the day from 9am to 7pm. The heat map helps us understand at what time the bikes are rented.This information can be used to stock inventory at a selected time.
+4. When the above heat map is distributed by gender we can see a similar pattern which means that the rental times are same. The male riders have a darker color showing more number of rentals.This information can help for stocking inventory as per gender requirements.
+5. There is a fare number of rental on each day but looking at the User trips by Gender by weekday vizualization we can conclude that there are more male riders than female riders who are subscribers.
+6. Looking at the August data, higher number of bikes are rented between 3pm to 7pm which is a perfect evening time to ride in New York.These stations should have the inventory at these times for a successful business.
+7. Top starting locations can help determine which locations need more inventory. The dark colors of the scatter plot will help identifying the stations that have more rentals.
+8. We can also find out how many bikes are rented at a particular location for a tripduration.
+9. We can also find out how many bikes are rented on a particular day.
+10. We can also find out top ten start locations.
+11. A lot of questions regarding setting up a new bikesharing business in Des Moines can possibly be answered by looking at the results from the visualizations created by the New York bikesharing data.
+
+### B. Below are the additional visualizations suggested for future analysis
 #### 1. Bike count for trip duration:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Bike%20count%20for%20Trip%20duration.PNG)
 This bar graph shows multiple data and is filtered to show the top five start locations depending on the bikes rented out.The x axis has the time and the y axis has the count of bikes.Each start station is represented by color and the size of the bar represents how many bikes were rented at that location.The overall bar represents the tripduration.We can conclude that more number of bikes are rented for a tripduaration of six and seven hours at all the five top start locations.
