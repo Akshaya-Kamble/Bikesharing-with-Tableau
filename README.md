@@ -50,8 +50,15 @@ This is a scatter plot which displays the starting location for the bike ride. T
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/TopStartinglocations?publish=yes)
 
 ## Summary
-#### 1. Bike count for trip duration
-#### 2. Top ten start stations:
+#### 1. Bike count for trip duration:
+![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Bike%20count%20for%20Trip%20duration.PNG)
+[link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Bikecountfortripduration?publish=yes)
+
+#### 2. Bike rental by days:
+![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Bike%20rental%20by%20days.PNG)
+[link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Bikerentalsbydays?publish=yes)
+
+#### 3. Top ten start stations:
 ![](https://github.com/Akshaya-Kamble/Bikesharing-with-Tableau/blob/main/Reference_Images/Top%20ten%20start%20stations.PNG)
 [link to Tableau visualization](https://public.tableau.com/profile/akshaya1961#!/vizhome/Usertripsbygenderweekday2/Toptenstartstations?publish=yes)
 
