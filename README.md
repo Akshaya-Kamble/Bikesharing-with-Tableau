@@ -1,8 +1,8 @@
 # Bikesharing-with-Tableau
-# Bike sharing  data using Tableau
 
 ## Overview of the analysis: 
-With the analysis of NYC bike sharing data and visualization we have to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For this analyis we will create various visualizations on Tableau.Using Pandas we will convert the datatype of tripduration to datetime dataframe and convert the numeric values of gender to string values.These pre converted columns will speed up the visualizations rather than doing the conversions on Tableau and plotting the data.
+With the analysis of NYC bike sharing data and visualization we have to convince investors that a bike-sharing program in Des Moines is a solid business proposal. For this analyis we will create various visualizations on Tableau.These visualizations will help us answer various questions like What is the checkout time for all users?,What is the checkout time by gender?,What is the count for trips by weekday per hour?,What is the count of trips by Gender (weekday per hour)?,What is count of user trips by Gender by weekday?,What are the August peak hours?,Which are the top starting locations?,How many bikes are rented for a tripduration at a particular location ?,How many bikes are rented on each day?,Which are the top ten stations ?
+Using Pandas we will first convert the datatype of tripduration to datetime dataframe and convert the numeric values of gender to string values.These pre converted columns will speed up the visualizations rather than doing the conversions on Tableau and plotting the data.
 
 ## Results
 ### A. The below link is for the Tableau story that has visualizations created from the NYC bikesharing data 
